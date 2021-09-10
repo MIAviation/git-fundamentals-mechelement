@@ -1,0 +1,7 @@
+Hello Dr. Redei,
+If you are seeing this file, it should appear in a pull request.
+If not, please let me know. It should let you know that I have completed
+the course.
+
+Sincerely,
+Landon Strong
